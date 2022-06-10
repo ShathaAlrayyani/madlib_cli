@@ -73,5 +73,5 @@ if __name__ == "__main__":
 
         return wrap
 
-decorater = decoration()
-decorater()
+    decorater = decoration()
+    decorater()
